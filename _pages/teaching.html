@@ -1,12 +1,14 @@
 ---
-layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+{% capture teaching_content %}
+{% include_relative teaching.md %}
+{% endcapture %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="content">
+  {{ teaching_content | markdownify }}
+</div>

@@ -115,15 +115,16 @@ blockquote {
 /* links */
 
 a {
-  &:focus {
-    @extend %tab-focus;
-  }
+  color: #0C3C37;       /* color normal de los enlaces */
+  text-decoration: none; /* quita subrayado opcional */
 
   &:hover,
   &:active {
     outline: 0;
+    color: #0b47a1; /* color al pasar el cursor */
   }
 }
+
 
 /* code */
 

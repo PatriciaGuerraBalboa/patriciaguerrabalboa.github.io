@@ -72,7 +72,7 @@
     }
   }
 
-  a {
+  a {color: #23AFA1; 
     text-decoration: underline;
 
     &:hover {
@@ -236,7 +236,7 @@
   }
 
   a {
-    color: inherit;
+    color: #23AFA1;
   }
 }
 
@@ -272,7 +272,7 @@
 
   &:hover {
     text-decoration: none;
-    color: var(--global-link-color-hover);
+    color: #23AFA1;
   }
 }
 
