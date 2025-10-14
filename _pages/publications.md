@@ -165,8 +165,3 @@
 
 </div>
 
-## Other Publications
-
- <a href="https://buleria.unileon.es/bitstream/handle/10612/24658/Unlocking_Potential_Composition_General.pdf?sequence=1&isAllowed=y" target="_blank" rel="noopener noreferrer"> **Unlocking the Potential of Composition for General Neighborhood Definitions**</a>
-
- XVIII Reunión Española sobre Criptología y Seguridad de la Información: XVIII RECSI, León 23-25 octubre 2024

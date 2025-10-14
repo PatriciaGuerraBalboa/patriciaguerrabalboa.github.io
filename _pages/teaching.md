@@ -1,23 +1,3 @@
-
-## Supervised Thesis
- <img src="/images/kitlogo.png" alt="kit logo" width="5%" />  **Measurement of Attack Resilience of Differential Privacy** (Master Thesis, 2025)
-
-<img src="/images/kitlogo.png" alt="kit logo" width="5%" /> & 
-<img src="/images/Logo_UPC.png" alt="kit logo" width="4%" />  **Utility of Semantic Privacy Notions for Correlated Data** (Master Thesis, 2024)  
-<span style="font-size: 12px;">Thesis awarded the 'Preis für den besten Studienabschluss 2024/2025' by KIT Informatics department</span>
-
-
-
-<img src="/images/kitlogo.png" alt="kit logo" width="5%" />  **Analysis of Topological Privacy Notions** (Master Thesis, 2024)
-
-<img src="/images/kitlogo.png" alt="kit logo" width="5%" /> **Local Differential Privacy Trajectory Protection through Redundancy Reduction** (Bachelor Thesis,  2024)
-
-<img src="/images/kitlogo.png" alt="kit logo" width="5%" /> **Riemannian-based Clustering for Differential Private Location Publication** (Master Thesis,  2023)
-
-<img src="/images/kitlogo.png" alt="kit logo" width="5%" /> **Privacy Analysis of Deep Graph Generative Models using M.I.A.s** (Master Thesis,  2023)
-
-
-
 ## Lectures
 ### <img src="/images/kitlogo.png" alt="kit logo" width="5%" /> Organizer and Lecturer of Privacy and Security Seminar <a href="https://ps.tm.kit.edu/english/139_1012.php" target="_blank" rel="noopener noreferrer">(Course Webpage)</a>
 
@@ -41,6 +21,21 @@
 **Description:** Exercise course complementary to PETs Lecture where students participate in a biweekly reading group, discussing key papers related to the lecture topics, with volunteers summarizing each paper. Additionally, students complete a hands-on implementation task: designing a simple data-sharing solution using differential privacy. Results are presented and discussed in the final session.
 
 
+## Supervised Thesis
+ <img src="/images/kitlogo.png" alt="kit logo" width="5%" />  **Measurement of Attack Resilience of Differential Privacy** (Master Thesis, 2025)
 
+<img src="/images/kitlogo.png" alt="kit logo" width="5%" /> & 
+<img src="/images/Logo_UPC.png" alt="kit logo" width="4%" />  **Utility of Semantic Privacy Notions for Correlated Data** (Master Thesis, 2024)  
+<span style="font-size: 12px;">Thesis awarded the 'Preis für den besten Studienabschluss 2024/2025' by KIT Informatics department</span>
+
+
+
+<img src="/images/kitlogo.png" alt="kit logo" width="5%" />  **Analysis of Topological Privacy Notions** (Master Thesis, 2024)
+
+<img src="/images/kitlogo.png" alt="kit logo" width="5%" /> **Local Differential Privacy Trajectory Protection through Redundancy Reduction** (Bachelor Thesis,  2024)
+
+<img src="/images/kitlogo.png" alt="kit logo" width="5%" /> **Riemannian-based Clustering for Differential Private Location Publication** (Master Thesis,  2023)
+
+<img src="/images/kitlogo.png" alt="kit logo" width="5%" /> **Privacy Analysis of Deep Graph Generative Models using M.I.A.s** (Master Thesis,  2023)
 
 

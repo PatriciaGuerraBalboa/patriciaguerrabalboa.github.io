@@ -5,12 +5,87 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% capture talks_content %}
+{% include_relative talks.md %}
+{% endcapture %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<style>
+.video-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 180px);
+  gap: 8px;
+  justify-content: start;
+  margin-top: 0.5em;
+}
 
-{% endif %}
+.video-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  background: #fff;
+  text-align: center;
+  max-width: 200px;
+}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+.video-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
+}
+
+.video-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.video-title {
+  padding: 0.5em;
+  font-size: 0.95rem;
+  color: #444;
+}
+</style>
+
+<p>
+  Here I list my invited talks, including slides when applicable.<br>
+  You can also check out my outreach talks on YouTube:
+</p>
+
+<div class="video-gallery">
+  <div class="video-card">
+    <a href="https://www.youtube.com/watch?v=e0eyQMQ2fvU" class="glightbox" data-type="video">
+      <img src="https://img.youtube.com/vi/e0eyQMQ2fvU/hqdefault.jpg" alt="How can math protect your privacy? – FameLab Karlsruhe 2024">
+    </a>
+    <div class="video-title">
+      FameLab Regional heat 2024<br>
+      <small> Silver Medal & Audience award </small>
+    </div>
+  </div>
+
+  <div class="video-card">
+    <a href="https://www.youtube.com/watch?v=ENbV-bQdm9w" class="glightbox" data-type="video">
+      <img src="https://img.youtube.com/vi/ENbV-bQdm9w/hqdefault.jpg" alt="Privacy in the Digital Age – Talk at XYZ Conference">
+    </a>
+    <div class="video-title">
+      FameLab Germany Finale 2024<br>
+      <small></small>
+    </div>
+  </div>
+</div>
+
+<!-- Incluir GLightbox correctamente -->
+<link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  const lightbox = GLightbox({
+    selector: '.glightbox',
+    touchNavigation: true,
+    loop: false,
+    autoplayVideos: true
+  });
+</script>
+
+<div class="content">
+  {{ talks_content | markdownify }}
+</div>

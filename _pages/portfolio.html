@@ -1,0 +1,15 @@
+---
+layout: single
+title: "Bio"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% capture portfolio_content %}
+{% include_relative portfolio.md %}
+{% endcapture %}
+
+
+<div class="content">
+  {{ portfolio_content | markdownify }}
+</div>
