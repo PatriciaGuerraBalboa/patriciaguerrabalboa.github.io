@@ -88,7 +88,7 @@ News
   <!-- Columna izquierda: Q1 logo -->
   <a href="https://www.informatik.kit.edu/7054_14791.php" 
      title="talk description" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.licdn.com/dms/image/v2/D4E22AQHTFPS1a01A0w/feedshare-shrink_800/B4EZijW_LBHoAg-/0/1755087377454?e=1763596800&v=beta&t=ewAVkqZu-x95qNhaFnZiJn7mP-jVlkRsSf8Uv4ltggU)" 
+    <img src="https://media.licdn.com/dms/image/v2/D4E22AQHTFPS1a01A0w/feedshare-shrink_800/B4EZijW_LBHoAg-/0/1755087377454?e=1763596800&v=beta&t=ewAVkqZu-x95qNhaFnZiJn7mP-jVlkRsSf8Uv4ltggU" 
      alt="talk description" 
      style="width:100px; vertical-align: top; border-radius: 6px;">
   </a>
