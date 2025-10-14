@@ -121,11 +121,52 @@ News
       style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
   Thesis
 </a>
-<!-- Poster -->
-      <a href="../files/PosterVLDB2025.pdf" target="_blank" 
+
+    </div>
+  </div>
+</div>
+<!-- END TALK -->
+
+<!-- TALK -->
+<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
+
+  <!-- Columna izquierda: Q1 logo -->
+  <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25112" 
+     title="talk description" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.dagstuhl.de/storage/media/0006/6475/conversions/25112.03.l.jpg" 
+     alt="talk description" 
+     style="width:100px; vertical-align: top; border-radius: 6px;">
+  </a>
+
+  <!-- Columna derecha: título y autores -->
+  <div style="flex: 1; min-width: 250px;">
+    <strong>
+      Participation in the  Dagstuhl Seminar 25112
+PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework 
+    </strong>
+
+    <div style="font-size: 14px; margin-top: 0.2em; color:#333;">
+         Schloss Dagstuhl – Leibniz-Zentrum für Informatik (LZI)
+    </div>
+
+    <!-- Recursos en cajitas -->
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em;">
+      <!-- Universidad -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        📍 Wadern, Germany
+      </span>
+
+      <!-- Fecha -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        ⏰ March 2025
+      </span>
+
+      <!-- Slides -->
+      <a href="https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.3.77" target="_blank" 
       style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
-  Poster
+  Final Report
 </a>
+
     </div>
   </div>
 </div>
