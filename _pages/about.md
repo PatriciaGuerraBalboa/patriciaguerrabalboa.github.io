@@ -177,7 +177,48 @@ PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework
   <summary style="cursor:pointer; margin-top:0.8em; font-weight:bold; color:#23AFA1;">
     Older News ↓
   </summary>
+ <!-- TALK -->
+<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
 
+  <!-- Columna izquierda: Q1 logo -->
+  <a href="https://indico.global/event/6198/overview" 
+     title="talk description" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.licdn.com/dms/image/v2/D4D10AQG5lEPt28-CWQ/image-shrink_800/image-shrink_800/0/1735207297459?e=1761055200&v=beta&t=TvhToGVBvFHNQGzlamdQVfTG83ZJK5bcUO0sjxePGbQ" 
+     alt="talk description" 
+     style="width:100px; vertical-align: top; border-radius: 6px;">
+  </a>
+
+  <!-- Columna derecha: título y autores -->
+  <div style="flex: 1; min-width: 250px;">
+    <strong>
+       Invited Speaker to Peregrinando: International carrers in mathematics and physics workshop 
+    </strong>
+
+    <div style="font-size: 14px; margin-top: 0.2em; color:#333;">
+         Centro de Investigación e Tecnoloxía Matemática de Galicia (CITMAga) and Instituto Galego de Física de Altas Enerxías (IGFAE)
+
+    </div>
+
+    <!-- Recursos en cajitas -->
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em;">
+      <!-- Universidad -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        📍 Santiago de Compostela, Spain
+      </span>
+
+      <!-- Fecha -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        ⏰ December 2023
+      </span>
+
+      <!-- Slides -->
+      <a href="../files/Peregrinando_2025-1.pdf" target="_blank" 
+      style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+  Slides 
+</a>
+    </div>
+  </div>
+</div>
   <!-- TALK -->
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
 
