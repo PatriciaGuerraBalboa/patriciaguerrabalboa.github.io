@@ -82,6 +82,55 @@ News
 </div>
 <!-- END TALK -->
 
+<!-- TALK -->
+<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
+
+  <!-- Columna izquierda: Q1 logo -->
+  <a href="https://www.informatik.kit.edu/7054_14791.php" 
+     title="talk description" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.licdn.com/dms/image/v2/D4E22AQHTFPS1a01A0w/feedshare-shrink_800/B4EZijW_LBHoAg-/0/1755087377454?e=1763596800&v=beta&t=ewAVkqZu-x95qNhaFnZiJn7mP-jVlkRsSf8Uv4ltggU)" 
+     alt="talk description" 
+     style="width:100px; vertical-align: top; border-radius: 6px;">
+  </a>
+
+  <!-- Columna derecha: título y autores -->
+  <div style="flex: 1; min-width: 250px;">
+    <strong>
+      Our Master thesis student Martin Lange awarded with the ‘Preis für den besten Studienabschluss 2024/2025’ 
+    </strong>
+
+    <div style="font-size: 14px; margin-top: 0.2em; color:#333;">
+        by KIT Informatics department 
+
+    </div>
+
+    <!-- Recursos en cajitas -->
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em;">
+      <!-- Universidad -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        📍 Karlsruhe, Germany
+      </span>
+
+      <!-- Fecha -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        ⏰ August 2025
+      </span>
+
+      <!-- Slides -->
+      <a href="../files/Utility_of_Semantic_Privacy_Notions_for_Correlated_Data.pdf" target="_blank" 
+      style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+  Thesis
+</a>
+<!-- Poster -->
+      <a href="../files/PosterVLDB2025.pdf" target="_blank" 
+      style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+  Poster
+</a>
+    </div>
+  </div>
+</div>
+<!-- END TALK -->
+
 <!-- Older news colapsables -->
 <details>
   <summary style="cursor:pointer; margin-top:0.8em; font-weight:bold; color:#23AFA1;">
@@ -222,6 +271,7 @@ News
   font-size: 0.95rem;
 }
 </style>
+
 
 Miscellanea
 ======
