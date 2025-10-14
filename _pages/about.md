@@ -365,7 +365,7 @@ Miscellanea
     <ul>
       <li>Silver medal and Audience Award in the <strong>FameLab Germany 2024</strong> regional heat</li>
       <li><strong>Best Poster Award 2023</strong> at <em>Community Congress by StartUpSecure</em></li>
-      <li>Recognition for Best Records, <em>University of Santiago de Compostela</em></li>
+      <li> <strong>"Mellores expedientes" (Best records) Award</strong>  <em> by University of Santiago de Compostela</em></li>
     </ul>
   </div>
 
