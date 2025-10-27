@@ -17,7 +17,7 @@ Current Job
   <table>
     <tr>
       <td style="width:160px; vertical-align:top;">
-        <img src="https://ps.tm.kit.edu/img/20231004_171032-cropped-4-Web_scaled.jpg" alt="KIT Chair of IT Security" width="150">
+        <img src="https://ps.tm.kit.edu/img/Scaled-Group-Picture.jpg" alt="KIT Chair of IT Security" width="150">
       </td>
       <td>
         I'm a PhD student at the <strong>Chair of IT Security at KIT</strong> under the supervision of 
