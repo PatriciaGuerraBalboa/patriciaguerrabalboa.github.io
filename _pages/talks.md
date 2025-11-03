@@ -56,7 +56,7 @@
   <!-- Columna izquierda: Q1 logo -->
   <a href="https://citmaga.gal/es/w/peregrinando-traxectorias-internacionais-nas-matem%C3%A1ticas-e-na-f%C3%ADsica" 
      title="talk description" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.licdn.com/dms/image/v2/D4D10AQG5lEPt28-CWQ/image-shrink_1280/image-shrink_1280/0/1735207297467?e=1761037200&v=beta&t=hyOJNF_K6q6mhwDh2rh7563gtyxsNyRSDEDGK_Ma0ww" 
+    <img src="../images/peregrinando.jpeg" 
          alt="talk decription" 
          style="width:100px; vertical-align: top; border-radius: 6px;"/>
   </a>
