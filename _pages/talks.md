@@ -229,7 +229,7 @@ Privacy
   <!-- Columna izquierda: Q1 logo -->
   <a href="https://www.esat.kuleuven.be/cosic/cosicevent/cosic-seminar-composability-of-differential-privacy-in-a-general-framework-patricia-guerra-balboa-alex-miranda-pascual-karlsruhe-institute-of-technology/" 
      title="talk description" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.licdn.com/dms/image/v2/D4D22AQHeBtl1Wf-AVA/feedshare-shrink_1280/feedshare-shrink_1280/0/1697047580382?e=1762992000&v=beta&t=qrYTKhaDCLHFu8HrahOGB_QJQGfq5XAwmffMXJD18b0" 
+    <img src="../images/KU_Leuven.jpeg" 
          alt="talk decription" 
          style="width:100px; vertical-align: top; border-radius: 6px;"/>
   </a>
