@@ -36,8 +36,9 @@
 
       <!-- Slides -->
       <a href="../files/BayesianMontpelier_Talk-2-5.pdf" target="_blank" 
-      style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
-      Slides
+         style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        Slides
+      </a>
     </div>
   </div>
 </div>
