@@ -6,7 +6,7 @@
   <!-- Columna izquierda: Q1 logo -->
   <a href="https://team.inria.fr/premedical/seminars/" 
      title="talk description" target="_blank" rel="noopener noreferrer">
-    <img src="../images/vldb_group.jpg" 
+    <img src="../images/Montpellier.jpg" 
      alt="talk description" 
      style="width:100px; vertical-align: top; border-radius: 6px;">
   </a>
@@ -39,7 +39,6 @@
       style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
   Slides
     </div>
-  </div>
 </div>
 <!-- END TALK -->
 
