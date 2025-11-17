@@ -6,7 +6,7 @@
   <!-- Columna izquierda: Q1 logo -->
   <a href="https://team.inria.fr/premedical/seminars/" 
      title="talk description" target="_blank" rel="noopener noreferrer">
-    <img src="../images/Montpellier.jpg" 
+    <img src="../images/Montpellier.jpeg" 
      alt="talk description" 
      style="width:100px; vertical-align: top; border-radius: 6px;">
   </a>
