@@ -1,5 +1,47 @@
 
 ## Invited Talks
+<!-- TALK -->
+<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
+
+  <!-- Columna izquierda: Q1 logo -->
+  <a href="https://team.inria.fr/premedical/seminars/" 
+     title="talk description" target="_blank" rel="noopener noreferrer">
+    <img src="../images/vldb_group.jpg" 
+     alt="talk description" 
+     style="width:100px; vertical-align: top; border-radius: 6px;">
+  </a>
+
+  <!-- Columna derecha: título y autores -->
+  <div style="flex: 1; min-width: 250px;">
+    <strong>
+       Balancing Privacy and Utility in Correlated Data
+    </strong>
+
+    <div style="font-size: 14px; margin-top: 0.2em; color:#333;">
+         PreMeDICal INRIA Seminar 
+
+    </div>
+
+    <!-- Recursos en cajitas -->
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em;">
+      <!-- Universidad -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        📍 Montpellier, France 
+      </span>
+
+      <!-- Fecha -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        ⏰ November 2025
+      </span>
+
+      <!-- Slides -->
+      <a href="../files/BayesianMontpelier_Talk-2-5.pdf" target="_blank" 
+      style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+  Slides
+    </div>
+  </div>
+</div>
+<!-- END TALK -->
 
 <!-- TALK -->
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
