@@ -183,7 +183,7 @@ PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework
   <!-- Columna izquierda: Q1 logo -->
   <a href="https://indico.global/event/6198/overview" 
      title="talk description" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.licdn.com/dms/image/v2/D4D10AQG5lEPt28-CWQ/image-shrink_800/image-shrink_800/0/1735207297459?e=1761055200&v=beta&t=TvhToGVBvFHNQGzlamdQVfTG83ZJK5bcUO0sjxePGbQ" 
+    <img src="../images/peregrinando.jpeg" 
      alt="talk description" 
      style="width:100px; vertical-align: top; border-radius: 6px;">
   </a>
