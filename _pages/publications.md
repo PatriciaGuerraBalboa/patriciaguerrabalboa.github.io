@@ -3,6 +3,45 @@
 
 
 ## Journal Articles
+<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
+
+  <!-- Columna izquierda: Q1 logo -->
+  <a href="https://www.scimagojr.com/journalsearch.php?q=21100199855&amp;tip=sid&amp;exact=no" 
+     title="SCImago Journal & Country Rank" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.scimagojr.com/journal_img.php?id=21100199855" 
+         alt="SCImago Q1 Journal" 
+         style="width:60px; vertical-align: top; border-radius: 6px;"/>
+  </a>
+
+  <!-- Columna derecha: título y autores -->
+  <div style="flex: 1; min-width: 250px;">
+    <strong><a href="https://arxiv.org/abs/2603.12142" 
+               target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+      Understanding Disclosure Risk in Differential Privacy with Applications to Noise Calibration and Auditing
+    </a></strong>
+
+    <div style="font-size: 14px; margin-top: 0.2em; color:#333;">
+       Patricia Guerra-Balboa, Annika Sauer,  Héber H. Arcolezi, Thorsten Strufe.  
+      In <em>Proceedings of the VLDB Endowment 2026 (VLDB)</em>
+    </div>
+
+    <!-- Recursos en cajitas -->
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em;">
+      <a href="https://portal.core.edu.au/conf-ranks/1261/" target="_blank" 
+         style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px;">
+        ICORE A*
+      </a>
+      <a href="https://arxiv.org/abs/2603.12142" target="_blank" 
+         style="background:#f0ad4e; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px;">
+        Extended Version
+      </a>
+      <a href="https://github.com/PatriciaBalboaKIT/Understanding-Risk-in-DP" target="_blank" 
+         style="background:#5bc0de; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px;">
+        Code
+      </a>
+    </div>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
 
