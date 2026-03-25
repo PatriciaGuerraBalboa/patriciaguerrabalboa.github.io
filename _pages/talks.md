@@ -4,6 +4,49 @@
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
 
   <!-- Columna izquierda: Q1 logo -->
+  <a href="https://cryptull.webs.ull.es/RECSI2026/" 
+     title="talk description" target="_blank" rel="noopener noreferrer">
+    <img src="../images/recsi26.jpg" 
+     alt="talk description" 
+     style="width:100px; vertical-align: top; border-radius: 6px;">
+  </a>
+
+  <!-- Columna derecha: título y autores -->
+  <div style="flex: 1; min-width: 250px;">
+    <strong>
+       DP to BDP: Noise Recalibration for Correlation-Resilient Privacy Guarantees
+    </strong>
+
+    <div style="font-size: 14px; margin-top: 0.2em; color:#333;">
+        XIX Reunión Española sobre Criptología y Seguridad de la Información: XIX RECSI 
+
+    </div>
+
+    <!-- Recursos en cajitas -->
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em;">
+      <!-- Universidad -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        📍 Tenerife, España 
+      </span>
+
+      <!-- Fecha -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        ⏰ March 2026
+      </span>
+
+      <!-- Slides -->
+      <a href="../files/RECSI26_Slides.pdf" target="_blank" 
+         style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        Slides
+      </a>
+    </div>
+  </div>
+</div>
+<!-- END TALK -->
+<!-- TALK -->
+<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
+
+  <!-- Columna izquierda: Q1 logo -->
   <a href="https://team.inria.fr/premedical/seminars/" 
      title="talk description" target="_blank" rel="noopener noreferrer">
     <img src="../images/Montpellier.jpeg" 
