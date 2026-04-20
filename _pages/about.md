@@ -119,6 +119,14 @@ News
 </div>
 <!-- END TALK -->
 
+
+
+<!-- Older news colapsables -->
+<details>
+  <summary style="cursor:pointer; margin-top:0.8em; font-weight:bold; color:#23AFA1;">
+    Older News ↓
+  </summary>
+
 <!-- TALK -->
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
 
@@ -208,12 +216,6 @@ PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework
   </div>
 </div>
 <!-- END TALK -->
-
-<!-- Older news colapsables -->
-<details>
-  <summary style="cursor:pointer; margin-top:0.8em; font-weight:bold; color:#23AFA1;">
-    Older News ↓
-  </summary>
  <!-- TALK -->
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
 
