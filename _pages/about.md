@@ -36,6 +36,43 @@ News
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
 
   <!-- Columna izquierda: Q1 logo -->
+  <a href="https://fg-pet.gi.de/veranstaltung/15th-privacy-enhancing-techniques-convention" 
+     title="talk description" target="_blank" rel="noopener noreferrer">
+    <img src="../images/pet-con.jpg" 
+     alt="talk description" 
+     style="width:100px; vertical-align: top; border-radius: 6px;">
+  </a>
+
+  <!-- Columna derecha: título y autores -->
+  <div style="flex: 1; min-width: 250px;">
+    <strong>
+       We organized PET-CON 2026.1 for the first time at KIT!
+    </strong>
+
+    <div style="font-size: 14px; margin-top: 0.2em; color:#333;">
+         15th Privacy Enhancing Techniques Convention 
+
+    </div>
+
+    <!-- Recursos en cajitas -->
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em;">
+      <!-- Universidad -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        📍 Karlsruhe, Germany 
+      </span>
+
+      <!-- Fecha -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        ⏰ April 2026
+      </span>
+    </div>
+  </div>
+</div>
+<!-- END TALK -->
+<!-- TALK -->
+<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
+
+  <!-- Columna izquierda: Q1 logo -->
   <a href="https://vldb.org/2025/" 
      title="talk description" target="_blank" rel="noopener noreferrer">
     <img src="../images/vldb_group.jpg" 
