@@ -411,6 +411,8 @@ Miscellanea
   <div class="miscel-card">
     <h3>🧑‍💻 Reviewer for</h3>
     <ul>
+      <li><em> ACM Conference on Computer and Communication Security <a href="https://www.sigsac.org/ccs/CCS2026/organization/prog-committee.html" target="_blank" 
+      >  (CCS) </a></em></li>
       <li><em>IEEE Transactions on Information Forensics and Security (IEEE TIFS)</em></li>
       <li><em>ACM ASIA Conference on Computer and Communication Security (ASIACCS)</em></li>
       <li><em>European Symposium on Research in Computer Security (ESORICS)</em></li>
