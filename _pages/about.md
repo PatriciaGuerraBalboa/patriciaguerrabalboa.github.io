@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD student at the Privacy & Security Chair at KIT, in Germany. My background is in Mathematics. 
+Hi! I'm a researcher at the Privacy & Security Chair at KIT, in Germany. My background is in Mathematics. 
 My current research interests lie in privacy-preserving data analysis, with a strong focus on Differential Privacy and location data.
 I do not only like doing research, but also talking about it to both scientific and general audiences. 
 
@@ -20,7 +20,7 @@ Current Job
         <img src="https://ps.tm.kit.edu/img/Scaled-Group-Picture.jpg" alt="KIT Chair of IT Security" width="150">
       </td>
       <td>
-        I'm a PhD student at the <strong>Chair of IT Security at KIT</strong> under the supervision of 
+        I'm a researcher at the <strong>Chair of IT Security at KIT</strong> under the supervision of 
         <strong>Prof. Dr. Thorsten Strufe</strong>. Our research group is engaged in the development and 
         analysis of security and privacy concepts that protect from all types of potential attackers in the digital world.  We are part of the 
         <strong>KASTEL</strong>, as well as the excellence cluster <strong>CeTI</strong>.
@@ -32,6 +32,43 @@ Current Job
 
 News
 ======
+<!-- TALK -->
+<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
+
+  <!-- Columna izquierda: Q1 logo -->
+  <a href="https://ps.tm.kit.edu/english/index.php" 
+     title="talk description" target="_blank" rel="noopener noreferrer">
+    <img src="../images/phd.jpg" 
+     alt="talk description" 
+     style="width:100px; vertical-align: top; border-radius: 6px;">
+  </a>
+
+  <!-- Columna derecha: título y autores -->
+  <div style="flex: 1; min-width: 250px;">
+    <strong>
+       I succesfully defended my PhD!
+    </strong>
+
+    <div style="font-size: 14px; margin-top: 0.2em; color:#333;">
+         A Formal Study of Differential Privacy in Complex and Correlated Data 
+
+    </div>
+
+    <!-- Recursos en cajitas -->
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em;">
+      <!-- Universidad -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        📍 Karlsruhe, Germany 
+      </span>
+
+      <!-- Fecha -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        ⏰ May 2026
+      </span>
+    </div>
+  </div>
+</div>
+<!-- END TALK -->
 <!-- TALK -->
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
 
