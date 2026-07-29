@@ -4,6 +4,50 @@
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
 
   <!-- Columna izquierda: Q1 logo -->
+  <a href="https://www.mpi-sp.org/" 
+     title="talk description" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.mpi-sp.org/assets/og-logo-281c44f14f2114ed3fe50e666618ff96341055a2f8ce31aa0fd70471a30ca9ed.jpg" 
+     alt="talk description" 
+     style="width:100px; vertical-align: top; border-radius: 6px;">
+  </a>
+
+  <!-- Columna derecha: título y autores -->
+  <div style="flex: 1; min-width: 250px;">
+    <strong>
+       Connecting Differential Privacy to
+Real-World Attack Mitigation
+    </strong>
+
+    <div style="font-size: 14px; margin-top: 0.2em; color:#333;">
+        Max Plank Institute for Security and Privacy
+
+    </div>
+
+    <!-- Recursos en cajitas -->
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em;">
+      <!-- Universidad -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        📍 Bochum, Germany 
+      </span>
+
+      <!-- Fecha -->
+      <span style="background:#6c757d; color:white; padding:0.2em 0.6em; border-radius:4px; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        ⏰ May 2026
+      </span>
+
+      <!-- Slides -->
+      <a href="../files/MPI_Talk.pdf" target="_blank" 
+         style="background:#23AFA1; color:white; padding:0.2em 0.6em; border-radius:4px; text-decoration:none; font-size:13px; display:flex; align-items:center; gap:0.3em;">
+        Slides
+      </a>
+    </div>
+  </div>
+</div>
+<!-- END TALK -->
+<!-- TALK -->
+<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em; flex-wrap: wrap;">
+
+  <!-- Columna izquierda: Q1 logo -->
   <a href="https://cryptull.webs.ull.es/RECSI2026/" 
      title="talk description" target="_blank" rel="noopener noreferrer">
     <img src="../images/recsi26.jpg" 
